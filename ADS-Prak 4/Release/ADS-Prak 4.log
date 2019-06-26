@@ -1,0 +1,8 @@
+﻿  main.cpp
+c1xx : warning C4199: Zweiphasen-Namenssuche wird für C++/CLI, C++/CX oder OpenMP nicht unterstützt; verwenden Sie /Zc:twoPhase-
+  Code wird generiert.
+  29 of 4272 functions ( 0.7%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    16 functions had inline decision re-evaluated but remain unchanged
+  Codegenerierung ist abgeschlossen.
+  ADS-Prak 4.vcxproj -> C:\Users\Dominik\Desktop\UNI\ADS\Prak\ADS-Prak 4\Release\ADS-Prak 4.exe
