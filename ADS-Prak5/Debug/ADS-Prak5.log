@@ -1,0 +1,7 @@
+﻿  graph.cpp
+c:\users\dominik\desktop\uni\ads\prak\ads-prak5\ads-prak5\graph.cpp(76): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+c:\users\dominik\desktop\uni\ads\prak\ads-prak5\ads-prak5\graph.cpp(125): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+c:\users\dominik\desktop\uni\ads\prak\ads-prak5\ads-prak5\graph.cpp(126): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+c:\users\dominik\desktop\uni\ads\prak\ads-prak5\ads-prak5\graph.cpp(148): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+c:\users\dominik\desktop\uni\ads\prak\ads-prak5\ads-prak5\graph.cpp(281): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+  ADS-Prak5.vcxproj -> C:\Users\Dominik\Desktop\UNI\ADS\Prak\ADS-Prak5\Debug\ADS-Prak5.exe
